@@ -9,3 +9,4 @@ added new feature in branch
 did some new stuff in feature_branch_new
 added more fancy stuff
 add more fancy stuff
+new branch
